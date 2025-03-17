@@ -9,7 +9,7 @@
 
 <div align="center">
    <a href="https://linkedin.com/in/gaurav katkar" target="_blank">
-    <img src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Gaurav%20Katkar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav katkar/" alt="LinkedIn" />
   </a>
 </div>
 
@@ -54,8 +54,8 @@
   <a href="https://github-readme-stats.vercel.app/api?username=katkargaurav09&theme=blueberry&count_private=true&hide_border=true&line_height=20">
     <img src="https://github-readme-stats.vercel.app/api?username=katkargaurav09&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=katkargaurav09&layout=compact&theme=blueberry&count_private=true&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkargaurav09&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=katkargaurav09&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=20">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkargaurav09&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Top Langs" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=katkargaurav09">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=katkargaurav09&theme=blueberry&hide_border=true" alt="GitHub Streak" />
