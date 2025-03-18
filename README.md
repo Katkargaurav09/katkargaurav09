@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-   <a href="https://linkedin.com/in/gaurav katkar" target="_blank">
+   <a href="[https://linkedin.com/in/gaurav katkar](https://www.linkedin.com/in/gaurav-katkar-3154b718b/)" target="_blank">
     <img src="https://img.shields.io/badge/-Gaurav%20Katkar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-katkar-3154b718b/" alt="LinkedIn" />
   </a>
 </div>
