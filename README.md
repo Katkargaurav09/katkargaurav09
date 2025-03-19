@@ -8,6 +8,9 @@
 </div>
 
 <div align="center">
+   <a href="https://gaurav-katkar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20out%20my%20portfolio-green?style=for-the-badge" alt="Portfolio" />
+  </a>
    <a href="https://www.linkedin.com/in/gaurav-katkar-3154b718b/" target="_blank">
     <img src="https://img.shields.io/badge/-Gaurav%20Katkar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-katkar-3154b718b/" alt="LinkedIn" />
   </a>
