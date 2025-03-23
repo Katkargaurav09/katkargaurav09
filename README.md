@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>A passionate frontend developer</h3>
+  <h3>A passionate Front-End Developer and Java Full Stack Developer.</h3>
 </div>
 
 <div align="center">
