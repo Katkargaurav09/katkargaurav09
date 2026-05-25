@@ -55,6 +55,6 @@ I build responsive web applications using **React.js** on the frontend and **Jav
 
 ### 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katkargaurav09&theme=default&count_private=true&hide_border=true&show_icons=true)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katkargaurav09&show_icons=true&hide_border=true&count_private=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katkargaurav09&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katkargaurav09&layout=compact&hide_border=true&theme=default)
