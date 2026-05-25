@@ -1,22 +1,22 @@
 # Hi, I'm Gaurav Katkar 👋
 
-### Java Full-Stack Developer | Frontend Engineer
+### Java Full-Stack Developer | React.js Frontend Engineer
 
-I build responsive web applications using **React.js** on the frontend and **Java** on the backend. Currently expanding my expertise in **Spring Boot** and REST API development to deliver end-to-end full-stack solutions.
+I build responsive web applications using **React.js** on the frontend and **Java** on the backend. Currently expanding my expertise in **Spring Boot** and REST API development to deliver complete end-to-end solutions.
 
-📍 Based in Navi Mumbai, India &nbsp;|&nbsp; 🎓 M.E. in Computer Engineering (2025)
+📍 Navi Mumbai, India &nbsp;·&nbsp; 🎓 M.E. Computer Engineering (2025) &nbsp;·&nbsp; 💼 Open to Work
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java • JavaScript • SQL • HTML5 • CSS3
+**Languages:** Java • JavaScript (ES6+) • SQL • HTML5 • CSS3
 
-**Frontend:** React.js • JavaScript (ES6+) • Tailwind CSS • Responsive Design
+**Frontend:** React.js • React Router • Context API • Tailwind CSS • Responsive Design
 
-**Backend:** Core Java • J2EE • Servlets • JDBC • *(Learning: Spring Boot, REST APIs)*
+**Backend:** Core Java • J2EE • Servlets • JDBC &nbsp;·&nbsp; *Learning: Spring Boot, REST APIs*
 
-**Database:** MySQL
+**Database:** MySQL (Joins, Subqueries, Schema Design)
 
 **Tools:** Git • GitHub • VS Code • IntelliJ IDEA • Postman • Figma • Netlify • Vercel
 
@@ -24,12 +24,13 @@ I build responsive web applications using **React.js** on the frontend and **Jav
 
 ### 🚀 Featured Projects
 
-| Project | Tech | Live Demo |
-|---------|------|-----------|
-| **Library Management System** | Java, J2EE, Servlets, JDBC, MySQL | [Code](https://github.com/Katkargaurav09/Library-Management-System-Java) |
-| **Quiz App (Aptitude Test)** | React.js, JavaScript | [Live](https://reactjs-quiz-app-apptitude.netlify.app/) |
+| Project | Tech | Link |
+|---------|------|------|
+| **Library Management System** | Java, Servlets, JDBC, MySQL | [Code](https://github.com/Katkargaurav09/Library-Management-System-Java) |
+| **E-Commerce Clothing Website** | React.js, Context API, React Router | [Live](https://e-commerceclothingwebsite.netlify.app/) |
+| **Quiz App — Aptitude Test** | React.js, JavaScript | [Live](https://reactjs-quiz-app-apptitude.netlify.app/) |
 | **To-Do + Expense Tracker** | React.js, JavaScript | [Live](https://todo-expence-tracker.netlify.app/) |
-| **E-Commerce Clothing Website** | React.js, JavaScript | [Live](https://e-commerceclothingwebsite.netlify.app/) |
+| **Uber Management System** | Core Java (OOP) | [Code](https://github.com/Katkargaurav09/Uber-Management-System) |
 
 ➡️ See all my work at **[gaurav-katkar.vercel.app](https://gaurav-katkar.vercel.app/)**
 
