@@ -44,7 +44,7 @@ I build responsive web applications using **React.js** on the frontend and **Jav
 - Cyber Crime Administration — NPTEL
 
 ---
-
+  
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-katkar-3154b718b/)
@@ -55,7 +55,6 @@ I build responsive web applications using **React.js** on the frontend and **Jav
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Katkargaurav09">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Katkargaurav09&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katkargaurav09&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</a>
+![Gaurav's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Katkargaurav09&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Katkargaurav09&layout=compact&theme=default&hide_border=true)
